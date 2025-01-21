@@ -1,5 +1,5 @@
 import React from "react";
-import { format } from "date-fns";
+import TestComponent from "./TestComponent";
 import ExampleComponent from "./ExampleComponent";
 
 
@@ -15,6 +15,7 @@ function App() {
         self-contained chunks of JSX.
       </p>
       <ExampleComponent />
+      <TestComponent />
     </div>
   );
 }
