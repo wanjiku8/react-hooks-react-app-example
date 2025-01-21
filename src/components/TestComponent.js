@@ -1,4 +1,3 @@
-// TestComponent.js
 import React from "react";
 
 function TestComponent() {
